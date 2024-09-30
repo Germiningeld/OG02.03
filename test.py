@@ -1,0 +1,1 @@
+print("Ветка second, файл test.py")
