@@ -4,22 +4,23 @@
 
 ### Added
 
-- [ ] Added new project 
-- [ ] Added new branch
-- [ ] Added new files
-- [ ] Added new commit
-- [ ] Added new merge
-- [ ] Added readme content
+- [x] Added new project 
+- [x] Added new branch
+- [x] Added new files
+- [x] Added new commit
+- [x] Added new merge
+- [x] Added readme content
+- [ ] Added new release
 
 ### Fixed
 
-- [ ] Fixed bug for merge
+- [x] Fixed bug for merge
 
 ### Removed
 
-- [ ] Removed project
-- [ ] Removed branch
-- [ ] Removed files
+- [x] Removed project
+- [x] Removed branch
+- [x] Removed files
 
 
 
